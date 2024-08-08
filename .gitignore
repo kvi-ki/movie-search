@@ -23,10 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 *.tsbuildinfo
-/test-results/
-/playwright/.cache/
-/playwright-report/
 
+.next/
 /.next/
+out/
 .vercel
 .env*.local
+coverage
